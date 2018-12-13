@@ -24,11 +24,3 @@ if ((l72EEE05C_0 > 0))
 	/// @DnDArgument : "force" "0"
 	gravity = 0;
 }
-
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 4720143A
-/// @DnDArgument : "spriteind" "sprite2"
-/// @DnDSaveInfo : "spriteind" "11a2e67b-86c2-44f4-aa20-c79cfcc12ed1"
-sprite_index = sprite2;
-image_index = 0;
