@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "284f7baf-00b5-4afb-a5e4-2cf1ff4e91f0",
+            "Value": {
+                "id": "bd8168cd-ab1f-46f8-ac1b-db86de19e1f5",
+                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2dfc9431-be11-4000-9f78-293ffc916ca6",
             "Value": {
                 "id": "cd8a298c-4746-463f-afc3-dd33c4850e77",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "49acedda-22ff-4961-85e4-1672974d2949",
+            "Value": {
+                "id": "9d887662-1b0d-4644-a5e7-7bd1cb3048d0",
+                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "4a0f563e-4798-4095-97e5-99e70b7a66ee",
             "Value": {
                 "id": "2e6af95a-47cb-41cd-9d51-31f8584792d9",
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "8c685dcc-811e-4586-bfb5-d5b45beb4413",
+            "Value": {
+                "id": "9465334f-579c-4e58-86c1-da51cc17dcef",
+                "resourcePath": "rooms\\room01\\room01.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "97c0d1ac-4483-4c49-b746-7f8c69505f91",
             "Value": {
                 "id": "e35c9fc2-d5d7-481e-b5a9-b575ac7ae571",
@@ -203,6 +227,14 @@
             "Value": {
                 "id": "9a03208e-f0bb-4e18-bba5-bff3e6cb18a5",
                 "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a40e88be-d189-4fa3-87bd-90e5bf4bc722",
+            "Value": {
+                "id": "b01a1a07-55f7-4e7f-b9f2-1a598448f536",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -292,6 +324,14 @@
                 "id": "6f1d824e-d42e-4db4-aa1c-974725d6dc54",
                 "resourcePath": "views\\dae93cd2-9d23-4775-9810-b784b95bd54f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "df311ac7-b817-4f03-8c56-1f58fb5f6511",
+            "Value": {
+                "id": "81b24528-44fb-4110-a2b6-1d5f600c8600",
+                "resourcePath": "objects\\goal\\goal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
