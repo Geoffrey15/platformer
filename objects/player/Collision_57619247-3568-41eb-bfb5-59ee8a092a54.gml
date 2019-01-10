@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4E268EE2
-/// @DnDArgument : "var" "y+10"
+/// @DnDArgument : "var" "y+7"
 /// @DnDArgument : "op" "1"
 /// @DnDArgument : "value" "other.y"
-if(y+10 < other.y)
+if(y+7 < other.y)
 {
 	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1
