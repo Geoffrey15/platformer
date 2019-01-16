@@ -21,6 +21,18 @@ if(y+7 < other.y)
 /// @DnDHash : 0A01F0BC
 else
 {
+	/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+	/// @DnDVersion : 1
+	/// @DnDHash : 53327644
+	/// @DnDApplyTo : 8bddf937-9da7-45ed-8983-e14c68b352bb
+	/// @DnDParent : 0A01F0BC
+	/// @DnDArgument : "lives" "-1"
+	/// @DnDArgument : "lives_relative" "1"
+	with(obj_lives) {
+	if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
+	__dnd_lives += real(-1);
+	}
+
 	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 0CE7FFA9

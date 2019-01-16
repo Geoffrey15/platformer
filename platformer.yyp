@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "8bddf937-9da7-45ed-8983-e14c68b352bb",
+            "Value": {
+                "id": "814e3242-645f-4b34-9b46-4e413fefe413",
+                "resourcePath": "objects\\obj_lives\\obj_lives.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8c685dcc-811e-4586-bfb5-d5b45beb4413",
             "Value": {
                 "id": "9465334f-579c-4e58-86c1-da51cc17dcef",
