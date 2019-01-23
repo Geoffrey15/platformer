@@ -1,10 +1,19 @@
 {
-    "id": "4392e878-7b78-4615-9a76-b07028d9fef8",
+    "id": "c1f0f0c5-ada9-487b-b980-a6448081f1b4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "secrect",
+    "name": "win",
     "eventList": [
-        
+        {
+            "id": "62700d81-f11a-4478-b7b7-71e4ec027f24",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "c1f0f0c5-ada9-487b-b980-a6448081f1b4"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "284f7baf-00b5-4afb-a5e4-2cf1ff4e91f0",
-    "visible": false
+    "spriteId": "34179523-ce4d-4e8e-842c-bc57c60edadb",
+    "visible": true
 }
